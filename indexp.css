@@ -1,0 +1,26 @@
+h1{
+    color:blue;
+}
+body{
+    background-image: url(whitebackground.jpg);
+    height: 100hv;
+    background-size: cover;
+}
+button{
+    border-radius: 3px;
+    width: 150px;
+    color:black;
+    background-color: green;
+    border: none;
+    font-weight: bold;
+    padding-top: 10px;
+}
+#section1{
+    color:red;
+}
+#section2{
+    color:pink;
+}
+#section3{
+    color:orange;
+}
